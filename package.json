@@ -1,5 +1,5 @@
 {
-  "name": "storybook-tailwind-dark-mode",
+  "name": "@jhaynie/storybook-tailwind-dark-mode",
   "version": "1.0.11",
   "description": "Toggle stories between light and dark mode using tailwind",
   "keywords": [
@@ -78,5 +78,6 @@
       "vue",
       "angular"
     ]
-  }
+  },
+  "dependencies": {}
 }
